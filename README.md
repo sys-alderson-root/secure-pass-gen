@@ -15,6 +15,7 @@ No external libraries required. Just run:
 ```bash
 python passgen.py
 
+
 ---
 ## 👨‍💻 Auteur
 Créé par **sys-alderson-root** 
