@@ -14,3 +14,8 @@ This tool is part of my ethical hacking learning journey. Use it to secure your 
 No external libraries required. Just run:
 ```bash
 python passgen.py
+
+---
+## 👨‍💻 Auteur
+Créé par **sys-alderson-root** 
+"Control is an illusion."
